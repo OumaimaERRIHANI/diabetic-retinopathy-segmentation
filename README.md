@@ -19,18 +19,24 @@ Below are all the classes from the dataset I’m using here in the project :
 
 #### EDA :
 - Conducted exploratory data analysis (EDA) to understand the images and their distribution across each class.
+![EDA](eda.png)
 
-  
 
 #### Preprocessed the images to enhance their visual quality:
-- Contrast enhancement
-- Histogram equalization
-- Noise reduction
+- Contrast enhancement.
+- Histogram equalization.
+- Noise reduction.
+
+![pretraitement](prétraitement.png)
 
 #### Segmented the images using several techniques:
-- Adaptive thresholding
-- Otsu's thresholding
-- Hysteresis thresholding
-- K-means thresholding
+- Adaptive thresholding.
+- Otsu's thresholding.
+- Hysteresis thresholding.
+- K-means thresholding.
+
+
+![segmentation](segmentation.png)
+
 
 
